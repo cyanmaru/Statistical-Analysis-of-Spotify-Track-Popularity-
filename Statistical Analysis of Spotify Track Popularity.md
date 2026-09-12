@@ -57,7 +57,7 @@ In order to aid with our study, we aim to answer the following questions:
 ### 4.1 Data Overview & Summary Statistics
 
 ### code used
-[Exploratory Data Analysis](<spotify analysis code/Exploratory Data Analysis.R>)
+<kbd>[Exploratory Data Analysis](<spotify analysis code/Exploratory Data Analysis.R>)
 
 #### 4.1.1 Response Variable: Popularity
 | Variable | Mean | SD | Min | Q1 | Median | Q3 | Max |
