@@ -1,10 +1,7 @@
 # Statistical Analysis of Spotify Track Popularity
 
-![Nanyang Technological University Logo](images/ntu_logo.png) 
+**Course:** MH3511 Data Analysis with Computer Group Project
 
-**Course:** MH3511 Data Analysis with Computer Group Project[cite: 1]  
-**Group:** 22[cite: 1]  
-**Team Members:** Bianca Zhang, Heidi Koh, Kua Jun Lin, Loke Hain Eu, Zeng Chuwen[cite: 1]  
 
 ---
 
