@@ -159,6 +159,9 @@ Overall, these findings suggest that while popularity differs significantly acro
 
 ## 5. Checking Statistical Assumptions
 
+## Code used
+<kbd>[Checking Statistical Assumptions](<spotify analysis code/Checking Statistical Assumptions.R>)
+
 ### 5.1 Normality of Numerical Variables
 We evaluated the normality of numerical variables visually using a Normal Q-Q plot. Data points of the Q-Q plot mostly follow the 45-degree line, although the points deviate from the 45-degree reference line at the upper and lower ends, indicating longer tails at the ends of the distribution. Despite this, the sample size is large (N = 80,293), and thus the Central Limit Theorem (CLT) ensures that the distribution is approximately normal.
 
